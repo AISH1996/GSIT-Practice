@@ -3,3 +3,5 @@ Login in
 user id, password, login button
 Payment
 
+google pay
+phone pay
