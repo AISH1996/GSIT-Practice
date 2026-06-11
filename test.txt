@@ -1,7 +1,13 @@
 I'm master.
+
+Payment
+google pay
+phone pay
+
 Login in
 user id, password, login button
 Payment
 
 google pay
 phone pay
+
